@@ -44,7 +44,7 @@ weather = [
         "day": "24 MAR 2022",
         "temperature": -6.00,
         "pressure": 0.670,
-        "humidity": 0.2,
+        "humidity": 0.1,
         "dew_point": -4.00
     },
     {
@@ -68,7 +68,7 @@ weather = [
         "day": "21 MAR 2022",
         "temperature": 9.00,
         "pressure": 0.380,
-        "humidity": 2.5,
+        "humidity": 0.5,
         "dew_point": -2.00
     },
     {
@@ -76,7 +76,7 @@ weather = [
         "day": "20 MAR 2022",
         "temperature": 10.00,
         "pressure": 0.550,
-        "humidity": 1.0,
+        "humidity": 0.3,
         "dew_point": -3.00
     },
     {
@@ -84,7 +84,7 @@ weather = [
         "day": "19 MAR 2022",
         "temperature": 11.00,
         "pressure": 0.150,
-        "humidity": 5.0,
+        "humidity": 0.8,
         "dew_point": 4.00
     },
     {
@@ -92,7 +92,7 @@ weather = [
         "day": "18 MAR 2022",
         "temperature": 12.00,
         "pressure": 0.350,
-        "humidity": 4.0,
+        "humidity": 0.7,
         "dew_point": 3.00
     },
     {
@@ -100,7 +100,7 @@ weather = [
         "day": "17 MAR 2022",
         "temperature": 13.00,
         "pressure": 0.850,
-        "humidity": 1.5,
+        "humidity": 0.8,
         "dew_point": 5.00
     },
     {
@@ -108,7 +108,7 @@ weather = [
         "day": "16 MAR 2022",
         "temperature": -4.00,
         "pressure": 0.450,
-        "humidity": 3.0,
+        "humidity": 0.2,
         "dew_point": 4.00
     },
     {
@@ -116,7 +116,7 @@ weather = [
         "day": "15 MAR 2022",
         "temperature": -4.00,
         "pressure": 0.970,
-        "humidity": 2.0,
+        "humidity": 0.9,
         "dew_point": 1.00
     }
 ]
